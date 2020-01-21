@@ -1,5 +1,5 @@
 # supportin command
-$ docker build -t hello-world-flask:latest . 
+$ docker build -t helloworld-flask:latest . 
 
 #
 
