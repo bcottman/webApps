@@ -5,4 +5,4 @@
 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
-Application implementation that compares **Streamlit** application to Flask, and other ways to create web services.
+Implementations that compare **Streamlit** applications to Flask, and other ways to implement web services.

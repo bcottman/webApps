@@ -1,0 +1,7 @@
+Flask>=1.1.1
+flask_bootstrap
+pandas
+bokeh
+pydataset
+
+
